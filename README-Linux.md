@@ -4,7 +4,7 @@ Modern, high-performance game server hosting platform for **Minecraft (Java & Be
 
 ---
 
-## 🚀 Quick Start on Linux
+##  Quick Start on Linux
 
 ### 1. Prerequisites
 Ensure you have **Node.js** (v18, v20, or v22) and **npm** installed on your system:
