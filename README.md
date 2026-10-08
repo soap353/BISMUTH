@@ -7,13 +7,6 @@ BISMUTH is a desktop application for hosting and managing Minecraft and Rust ded
 - **Minecraft Java Edition**:
 - **Minecraft Bedrock Edition**
 - **Rust**
-- **Palworld**
-- **Valhiem**
-- **Terraria**
-- **Project Zomboid**
-- **Seven Days to Die**
-- **ARK: Survival Evolved**
-- **Sones of the Forest**
 
 ## Features
 
